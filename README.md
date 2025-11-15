@@ -11,6 +11,7 @@ In the field of close-proximity space operations, RGB-D cameras have been used w
 摘要：
 这是一个用于航天器位姿估计的数据集，包含8种在役或刚刚退役的航天器，其中包括rgb图像、与之像素对齐的深度图、mask图像、带噪声的mask图像、以及位姿标签与航天器整体模型（以ply点云格式存储），整个数据集是用blender仿真生成的图像，包含了不同光亮下，不同背景下，航天器不同角度的数据，可用于航天器分类与位姿估计。
 部分图像如下：
+
 <img width="122" height="92" alt="image" src="https://github.com/user-attachments/assets/59c1d887-97eb-409d-8516-16160ff1e30f" />General satellite
 
 <img width="121" height="91" alt="image" src="https://github.com/user-attachments/assets/11e448c7-07f3-4bab-9bbc-d40641c36fad" />B330
