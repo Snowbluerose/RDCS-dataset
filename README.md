@@ -35,6 +35,7 @@ In the field of close-proximity space operations, RGB-D cameras have been used w
 <img width="154" height="115" alt="image" src="https://github.com/user-attachments/assets/df6267a6-2231-4473-8557-902eb26a82e0" />the depth map of the B330
 
 If you are not in mainland China, you can download it through Google online disk：https://drive.google.com/file/d/16_k_vst_z31E7fvxS_5qMLyPvqlnywcH/view?usp=sharing（Copy share link to address bar and go to）. Because the uncompressed data set is very large, it is compressed in the form of.7z, After downloading, it can be unziped and used.
+
 如果您是中国大陆的用户，可以通过百度云下载数据集，下载链接为: https://pan.baidu.com/s/1QBKrZjZwFLA3UAsRw7UyGA?pwd=vc86 提取码: vc86 ，因为原版数据集太大，所以以.7z格式进行了压缩，下载后自行解压即可使用
 
 If you have any questions, please leave a message here or contact us directly via email at zhx_rbs@nuaa.edu.cn, thanks
