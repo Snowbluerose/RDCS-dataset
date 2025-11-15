@@ -12,16 +12,24 @@ In the field of close-proximity space operations, RGB-D cameras have been used w
 这是一个用于航天器位姿估计的数据集，包含8种在役或刚刚退役的航天器，其中包括rgb图像、与之像素对齐的深度图、mask图像、带噪声的mask图像、以及位姿标签与航天器整体模型（以ply点云格式存储），整个数据集是用blender仿真生成的图像，包含了不同光亮下，不同背景下，航天器不同角度的数据，可用于航天器分类与位姿估计。
 部分图像如下：
 <img width="122" height="92" alt="image" src="https://github.com/user-attachments/assets/59c1d887-97eb-409d-8516-16160ff1e30f" />General satellite
+
 <img width="121" height="91" alt="image" src="https://github.com/user-attachments/assets/11e448c7-07f3-4bab-9bbc-d40641c36fad" />B330
+
 <img width="124" height="93" alt="image" src="https://github.com/user-attachments/assets/dcd3f768-3d86-423c-a31a-2822a93294a3" />Dragon 2
+
 <img width="124" height="94" alt="image" src="https://github.com/user-attachments/assets/8b88d748-9ead-4ebe-80fa-eebc6b2f29f8" />Enhanced Cygnus
+
 <img width="125" height="94" alt="image" src="https://github.com/user-attachments/assets/4781d5ea-3dcf-43ac-858c-e543c7a7742d" />Nauka
+
 <img width="125" height="94" alt="image" src="https://github.com/user-attachments/assets/df8fcd09-930d-40dd-8597-61826e8e2c52" />CST-100 Starliner
+
 <img width="124" height="93" alt="image" src="https://github.com/user-attachments/assets/b557cfaf-6a0a-407e-aa9b-e4ea2fc2a98a" />Dream Chaser
+
 <img width="124" height="93" alt="image" src="https://github.com/user-attachments/assets/8f1fdf7a-6e56-4f06-875c-c6935fb510cf" />Boeing Airlock
 
 <img width="158" height="119" alt="image" src="https://github.com/user-attachments/assets/e55ac372-7013-4709-9c86-d5d0861b34f2" />the mask image of the B330
 （with bounding box）
+
 <img width="154" height="115" alt="image" src="https://github.com/user-attachments/assets/df6267a6-2231-4473-8557-902eb26a82e0" />the depth map of the B330
 
 If you are not in mainland China, you can download it through Google online disk：https://drive.google.com/file/d/16_k_vst_z31E7fvxS_5qMLyPvqlnywcH/view?usp=sharing（Copy share link to address bar and go to）. Because the uncompressed data set is very large, it is compressed in the form of.7z, After downloading, it can be unziped and used.
