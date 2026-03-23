@@ -2,9 +2,8 @@
 Here is the download link of RDCS dataset, corresponding to the paper:A Novel RGB-D Camera based Dataset for Spacecraft Pose Estimation
 
 这里是RDCS数据集的下载链接，相关论文为：A Novel RGB-D Camera based Dataset for Spacecraft Pose Estimation（基于RGB-D相机的用于航天器位姿估计的新数据集）
-
-The thesis has been employed but not yet published. The article has been hired but has not been published yet. If it is published, I will add a link here. 论文已录用但还未公开,如果公开了我将在此补充链接。
-
+paper link（论文链接）：
+Hanxue Zhao, Jiaqian Hu, Guangze Wang, Jin Sha, Xuxing Huang, Bingheng Wang, Shuang Li. A Novel RGB-D Camera Based Dataset for Spacecraft Pose Estimation. Space Sci Technol. 2026;6:0446.DOI:10.34133/space.0446
 Abstract：
 
 In the field of close-proximity space operations, RGB-D cameras have been used widely. However, publicly available spacecraft datasets for pose estimation are primarily based solely on image data. There is no publicly available dataset based on RGB-D cameras that can be directly used. Therefore, this paper introduces a novel RGB-D camera-based spacecraft(RDCS) dataset. Due to high acquisition costs and confidentiality issues, it is difficult to obtain real spacecraft data and their associated pose information. To address this, the space environment and camera trajectories are constructed in Blender to capture pixel-aligned RGB images and depth maps of spacecraft from various observation angles. In addition, the RDCS dataset also includes pose annotations, bounding box labels, and corresponding mask images. The process focuses on addressing the challenges of acquiring the RGB image and the depth map of the spacecraft at the same keyframe while ensuring their pixel alignment, as well as determining the corresponding pose annotations. 
